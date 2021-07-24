@@ -1,2 +1,3 @@
 # practice
-small programs 
+mainly hackerrank challenges
+
